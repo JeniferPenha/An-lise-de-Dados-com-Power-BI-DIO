@@ -7,7 +7,6 @@
 </div>
 
 ## Detalhando o Diagrama ER de E-commerce de Forma Simplificada
-Para facilitar a compreensão, vamos focar nos principais componentes e suas relações:
 
 ### Entidades Principais:
 
